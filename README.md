@@ -32,3 +32,24 @@ Desktop Notifications on Google Play Check this [Link](https://play.google.com/s
 After installing the app on the phone, sign into your Google account on both the phone and Chrome to connect the devices.
 
 Compatible with all popular messengers like WhatsApp, Facebook Messenger, Telegram and Hangouts.
+
+## 4. Chuck
+Chuck is a simple in-app HTTP inspector for Android OkHttp clients. Chuck intercepts and persists 
+all HTTP requests and responses inside your application, and provides a UI for inspecting their content(Request Params and Response Params).
+
+Apps using Chuck will display a notification showing a summary of ongoing HTTP activity. Tapping on the notification launches 
+the full Chuck UI. Apps can optionally suppress the notification, and launch the Chuck UI directly from within their own interface. 
+HTTP interactions and their contents can be exported via a share intent.
+
+The main Chuck activity is launched in its own task, allowing it to be displayed alongside the host app UI using Android 7.x multi-window support.
+
+For more Information on Chuk, check the Chuck Repository and Documentation on Github [Here](https://github.com/jgilfelt/chuck)
+
+## 5. NetFox
+Netfox A lightweight, one line setup, network debugging library that provides a quick look on all executed network requests performed by your iOS or OSX app. It grabs all requests - of course yours, requests from 3rd party libraries (such as AFNetworking, Alamofire or else), UIWebViews, and more
+
+Very useful and handy for network related issues and bugs Implemented in Swift 2.1 - bridged also for Objective-C
+
+NetFox is similar to chuck in functionality, while chuck is for Android Apps, Netfox s for IOS or OSX apps.
+
+For more information on Netfox, checkout the Netfox repository and documentation on Github [Here](https://github.com/kasketis/netfox).
