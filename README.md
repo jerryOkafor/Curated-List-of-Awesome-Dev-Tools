@@ -1,4 +1,4 @@
-# Useful Chrome DevTools And Plugins for Android Developer!
+# Curated List of Awesome Dev Tools!
 
 ## 1. Stetho
 
