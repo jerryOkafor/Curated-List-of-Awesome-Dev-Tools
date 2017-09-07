@@ -33,7 +33,7 @@ After installing the app on the phone, sign into your Google account on both the
 
 Compatible with all popular messengers like WhatsApp, Facebook Messenger, Telegram and Hangouts.
 
-## 4. Chuck
+## 5. Chuck
 Chuck is a simple in-app HTTP inspector for Android OkHttp clients. Chuck intercepts and persists 
 all HTTP requests and responses inside your application, and provides a UI for inspecting their content(Request Params and Response Params).
 
@@ -45,7 +45,7 @@ The main Chuck activity is launched in its own task, allowing it to be displayed
 
 For more Information on Chuk, check the Chuck Repository and Documentation on Github [Here](https://github.com/jgilfelt/chuck)
 
-## 5. NetFox
+## 6. NetFox
 Netfox A lightweight, one line setup, network debugging library that provides a quick look on all executed network requests performed by your iOS or OSX app. It grabs all requests - of course yours, requests from 3rd party libraries (such as AFNetworking, Alamofire or else), UIWebViews, and more
 
 Very useful and handy for network related issues and bugs Implemented in Swift 2.1 - bridged also for Objective-C
