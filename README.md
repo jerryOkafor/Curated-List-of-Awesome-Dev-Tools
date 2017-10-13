@@ -1,5 +1,7 @@
 # Curated List of Awesome Dev Tools!
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ## 1. Stetho
 
 Stetho is a sophisticated debug bridge for Android applications. When enabled, developers have access to the Chrome Developer Tools feature natively part of the Chrome desktop browser. Developers can also choose to enable the optional dumpapp tool which offers a powerful command-line interface to application internals. The integration with the Chrome DevTools frontend is implemented using a client/server protocol which the Stetho software provides for your application. Once your application is integrated, simply navigate to chrome://inspect and click "Inspect" to get started!
