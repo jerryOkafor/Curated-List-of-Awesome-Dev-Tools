@@ -53,3 +53,14 @@ Very useful and handy for network related issues and bugs Implemented in Swift 2
 NetFox is similar to chuck in functionality, while chuck is for Android Apps, Netfox s for IOS or OSX apps.
 
 For more information on Netfox, checkout the Netfox repository and documentation on Github [Here](https://github.com/kasketis/netfox).
+
+
+## 7. LeakCanary
+LeakCanar is a memory leak detection library for Android and Java. I think Leak canry is am important Librabry every one need to have in their app during dev stages toefficiently detect all potential and confirmed memory leaks so that your apps will not perform badly. 
+
+Leak canary colelects all the momory leaks and post a notification so that you can open the integrated app just like chuk.
+
+> 
+“A small leak will sink a great ship.” - Benjamin Franklin
+
+For more information, check the LeakCanry github page [Here](https://github.com/square/leakcanary) to get started with Leakcanry rijght away
