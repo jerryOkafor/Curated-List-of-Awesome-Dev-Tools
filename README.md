@@ -66,3 +66,10 @@ Leak canary colelects all the momory leaks and post a notification so that you c
 “A small leak will sink a great ship.” - Benjamin Franklin
 
 For more information, check the LeakCanry github page [Here](https://github.com/square/leakcanary) to get started with Leakcanry rijght away
+
+## 8. Dyte.io
+Dyte let's you embed scalable, customisable and interactive video calls within minutes into your Web, Desktop or mobile apps. Thier [Video SDK and APIs](https://dyte.io/video-sdk) are SOC 2, GDPR and HIPAA complaint.
+
+It is compatible with Android, iOS, Flutter, Kotlin, ReactNative, Angular and many more languages. With an uptime of 99.99%, industry-leading documentation and out of the box plugins, customise the video experience for your ed-tech, tele-health, fitness, HR-tech, social or gaming platform.
+
+Dyte also offer 10K free credits each month, checkout their [Video SDK docs](https://docs.dyte.io/) and [start building powerful interactive video experiences](https://dyte.io).
